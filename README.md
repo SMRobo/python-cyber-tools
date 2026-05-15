@@ -2,8 +2,14 @@
 
 Beginner Python tools and scripts for cybersecurity learning
 
-## Planned Projects
-- Port Scanner
-- Ping Tool
+# Python Cyber Tools
+
+Learning Python by building beginner cybersecurity and networking tools.
+
+## Current Projects
 - Password Generator
+- Port Scanner
+
+## Planned Projects
+- Ping Tool
 - File Hash Checker
