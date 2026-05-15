@@ -10,6 +10,5 @@ Learning Python by building beginner cybersecurity and networking tools.
 - Password Generator
 - Port Scanner
 - Ping Tool
-
-## Planned Projects
 - File Hash Checker
+
