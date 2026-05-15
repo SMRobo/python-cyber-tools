@@ -12,3 +12,10 @@ Learning Python by building beginner cybersecurity and networking tools.
 - Ping Tool
 - File Hash Checker
 
+## Future Projects
+- File Integrity Monitor
+- Secure Login System
+- Netowrk Device Scanner
+- Multi-Threaded Port Scanner
+- Packet Sniffer
+- Basic Vulnerability Scanner
