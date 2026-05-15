@@ -9,7 +9,7 @@ Learning Python by building beginner cybersecurity and networking tools.
 ## Current Projects
 - Password Generator
 - Port Scanner
+- Ping Tool
 
 ## Planned Projects
-- Ping Tool
 - File Hash Checker
